@@ -1,4 +1,4 @@
-# boilerplate code
+# Boiler-plate code
 
  State Management using Flutter Bloc.
 
