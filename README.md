@@ -1,6 +1,6 @@
-# flutterblocboilerplat
+# Boiler-plate code
 
-A new Flutter project.
+ State Management using Flutter Bloc.
 
 ## Getting Started
 
